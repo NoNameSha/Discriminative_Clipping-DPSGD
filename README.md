@@ -31,7 +31,6 @@ We evaluate DC-DPSGD on:
 10-class classification task:
 - **Product** -- MLP
 Binary classification:
-- **Product** 
 - **Malware**
 - **Cancer**
 - **Adult**
