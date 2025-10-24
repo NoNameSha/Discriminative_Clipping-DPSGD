@@ -30,6 +30,7 @@ We evaluate DC-DPSGD on:
 ### 📈 Classification on Tabular dataset
 10-class classification task:
 - **Product** -- MLP
+  
 Binary classification:
 - **Malware**
 - **Cancer**
