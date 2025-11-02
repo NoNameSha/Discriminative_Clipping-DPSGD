@@ -1,4 +1,4 @@
-# 🛡️ Tailor for Tails: Differentially Private Stochastic Optimization with Heavy Tails via Discriminative Clipping
+# 🛡️ Unified Differentially Private Stochastic Gradient Descent with Tail-Aware Discriminative Clipping
 
 This repository provides the official implementation of **DC-DPSGD**, a novel framework for training deep models under differential privacy with **heavy-tailed gradient noise**. It introduces *discriminative clipping* to better handle the heavy tail in DPSGD.
 
